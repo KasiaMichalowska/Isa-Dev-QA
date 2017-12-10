@@ -11,6 +11,10 @@ class DoctorService {
         this.doctors.add(new Doctor("Marcin", "Leczniczny"));
         this.doctors.add(new Doctor("Marcin", "Leczniczny"));
         this.doctors.add(new Doctor("Marcin", "Leczniczny"));
+        this.doctors.add(new Doctor("Marcin", "Leczniczny"));
+        this.doctors.add(new Doctor("Marcin", "Leczniczny"));
+        this.doctors.add(new Doctor("Marcin", "Leczniczny"));
+        this.doctors.add(new Doctor("Marcin", "Leczniczny"));
     }
 
     List<Doctor> getAll() {
